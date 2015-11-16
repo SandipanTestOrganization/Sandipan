@@ -17,13 +17,13 @@ public class HomePageTest {
 	
 	@After
 	public void CleanUp(){
-		HomePage.GoTo();
-		Assert.assertTrue(HomePage.IsAt());
+		Browser.Close();
 	}
 	
 	@Test
 	public void Can_Go_To_HomePage(){
-		Browser.Close();
+		HomePage.GoTo();
+		Assert.assertTrue(HomePage.IsAt());
 	}
 
 }
