@@ -1,10 +1,10 @@
-package sandipan.shoeshopSandy.quickview;
+package sandipan.shoeshopSandy.shopping.women.sandals.kitten;
 
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 
-public class QuickViewOpenClose {
+public class BuyWomenKittenSandalUsingQuickViewTest {
 
 	@Before
 	public void Init()
@@ -13,7 +13,7 @@ public class QuickViewOpenClose {
 	}
 	
 	@Test
-	public void Can_Go_To_QuickView_And_Close_QuickView_Test()
+	public void Can_Test()
 	{
 		
 	}
