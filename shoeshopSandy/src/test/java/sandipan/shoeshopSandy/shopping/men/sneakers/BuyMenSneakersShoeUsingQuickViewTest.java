@@ -1,0 +1,33 @@
+/**
+ * 
+ */
+package sandipan.shoeshopSandy.shopping.men.sneakers;
+
+import org.junit.After;
+import org.junit.Before;
+import org.junit.Test;
+
+/**
+ * @author Sandipan
+ *
+ */
+public class BuyMenSneakersShoeUsingQuickViewTest {
+
+	@Before
+	public void Init()
+	{
+		
+	}
+	
+	@Test
+	public void Can_Test()
+	{
+		
+	}
+
+	@After
+	public void CleanUp()
+	{
+		
+	}
+}
