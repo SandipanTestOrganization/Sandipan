@@ -6,6 +6,7 @@ import org.junit.Before;
 import org.junit.Test;
 
 import sandipan.shoeshopSandy.browser.Browser;
+import sandipan.shoeshopSandy.logger.SHOELogger;
 import sandipan.shoeshopSandy.pages.HomePage;
 
 public class HomePageTest {
