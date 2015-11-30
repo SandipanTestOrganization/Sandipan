@@ -4,8 +4,8 @@ import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 
-public class HomePageTest {
-	
+public class QuickViewTest {
+
 	@Before
 	public void Init()
 	{
@@ -13,7 +13,7 @@ public class HomePageTest {
 	}
 	
 	@Test
-	public void Can_Go_To_Home_Page_Test()
+	public void Can_Go_To_QuickView_Test()
 	{
 		
 	}
